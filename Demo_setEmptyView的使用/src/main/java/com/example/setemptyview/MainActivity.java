@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         list1.add("xxx");
         list1.add("xxx");
 
-
+        //ssssssssssssssssss
 //        View emptyView = findViewById(R.id.button);
 
         ListView listView = (ListView) findViewById(R.id.listView);
